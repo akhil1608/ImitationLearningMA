@@ -1,1 +1,1 @@
-# ImitationBasketBallMA
+# Multi-Agent Imitation Learning
